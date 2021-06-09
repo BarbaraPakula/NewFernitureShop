@@ -24,7 +24,9 @@ $desktop-width: 1200px;
 
 body {
   font-family: "Poppins", sans-serif;
-  
+  .rec.rec-dot {
+    display: none;
+    };
   .rec.rec-arrow {
     border-radius: 0;
     background-color: $darkGray;
