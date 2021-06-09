@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/SHOP_Ferniture/static/css/main.54656727.chunk.css",
+    "main.js": "/github.io/SHOP_Ferniture/static/js/main.4f099b3a.chunk.js",
+    "main.js.map": "/github.io/SHOP_Ferniture/static/js/main.4f099b3a.chunk.js.map",
+    "runtime-main.js": "/github.io/SHOP_Ferniture/static/js/runtime-main.6694edfc.js",
+    "runtime-main.js.map": "/github.io/SHOP_Ferniture/static/js/runtime-main.6694edfc.js.map",
+    "static/css/2.3e9ac995.chunk.css": "/github.io/SHOP_Ferniture/static/css/2.3e9ac995.chunk.css",
+    "static/js/2.462e6ace.chunk.js": "/github.io/SHOP_Ferniture/static/js/2.462e6ace.chunk.js",
+    "static/js/2.462e6ace.chunk.js.map": "/github.io/SHOP_Ferniture/static/js/2.462e6ace.chunk.js.map",
+    "index.html": "/github.io/SHOP_Ferniture/index.html",
+    "static/css/2.3e9ac995.chunk.css.map": "/github.io/SHOP_Ferniture/static/css/2.3e9ac995.chunk.css.map",
+    "static/css/main.54656727.chunk.css.map": "/github.io/SHOP_Ferniture/static/css/main.54656727.chunk.css.map",
+    "static/js/2.462e6ace.chunk.js.LICENSE.txt": "/github.io/SHOP_Ferniture/static/js/2.462e6ace.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6694edfc.js",
+    "static/css/2.3e9ac995.chunk.css",
+    "static/js/2.462e6ace.chunk.js",
+    "static/css/main.54656727.chunk.css",
+    "static/js/main.4f099b3a.chunk.js"
+  ]
+}
