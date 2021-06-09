@@ -1,6 +1,4 @@
 
-
-
 # WDP Projekt Zespołowy
 
 ## Inicjacja projektu
