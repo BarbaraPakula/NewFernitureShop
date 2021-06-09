@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/NewFernitureShop/static/css/main.9d7379c3.chunk.css",
-    "main.js": "/NewFernitureShop/static/js/main.014884a2.chunk.js",
-    "main.js.map": "/NewFernitureShop/static/js/main.014884a2.chunk.js.map",
+    "main.css": "/NewFernitureShop/static/css/main.c6b88765.chunk.css",
+    "main.js": "/NewFernitureShop/static/js/main.bfe9d58a.chunk.js",
+    "main.js.map": "/NewFernitureShop/static/js/main.bfe9d58a.chunk.js.map",
     "runtime-main.js": "/NewFernitureShop/static/js/runtime-main.1f625c4b.js",
     "runtime-main.js.map": "/NewFernitureShop/static/js/runtime-main.1f625c4b.js.map",
     "static/css/2.3e9ac995.chunk.css": "/NewFernitureShop/static/css/2.3e9ac995.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.376bb7dd.chunk.js.map": "/NewFernitureShop/static/js/2.376bb7dd.chunk.js.map",
     "index.html": "/NewFernitureShop/index.html",
     "static/css/2.3e9ac995.chunk.css.map": "/NewFernitureShop/static/css/2.3e9ac995.chunk.css.map",
-    "static/css/main.9d7379c3.chunk.css.map": "/NewFernitureShop/static/css/main.9d7379c3.chunk.css.map",
+    "static/css/main.c6b88765.chunk.css.map": "/NewFernitureShop/static/css/main.c6b88765.chunk.css.map",
     "static/js/2.376bb7dd.chunk.js.LICENSE.txt": "/NewFernitureShop/static/js/2.376bb7dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f625c4b.js",
     "static/css/2.3e9ac995.chunk.css",
     "static/js/2.376bb7dd.chunk.js",
-    "static/css/main.9d7379c3.chunk.css",
-    "static/js/main.014884a2.chunk.js"
+    "static/css/main.c6b88765.chunk.css",
+    "static/js/main.bfe9d58a.chunk.js"
   ]
 }
