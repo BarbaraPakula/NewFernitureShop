@@ -32,7 +32,7 @@ class Brands extends React.Component {
                   {brands.map(brand => (
                     <BrandItem key={brand.id}>
                       {/* <img src={`/.${brand.logo}`} alt='' /> */}
-                      <img src={`.${brand.logo}`} alt='' />
+                      <img src={brand.logo} alt='' />
                     </BrandItem>
                   ))}
                 </Carousel>
