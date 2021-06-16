@@ -1,4 +1,5 @@
 https://barbarapakula.github.io/NewFernitureShop/
+https://ferniture-shop.herokuapp.com/
 # WDP Projekt Zespołowy
 
 ## Inicjacja projektu
